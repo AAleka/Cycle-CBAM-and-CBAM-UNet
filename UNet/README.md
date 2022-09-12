@@ -1,27 +1,9 @@
 # Retinal Blood Vessel Segmentation using Modified CBAM-UNet in PyTorch
 
-Place DRIVE, STARE and CHASE DB1 in the following way:
+1. Download DRIVE, STARE and CHASE DB1 in this folder.
 
-DRIVE/training/images/*.tif
-  
-DRIVE/training/1st_manual/*.gif
-  
-DRIVE/testing/images/*.tif
-  
-DRIVE/testing/1st_manual/*.gif
+2. Run aug_drive.py, aug_stare.py, aug_chase.py.
 
-STARE/training/stare-images/*.ppm
-  
-STARE/training/labels-ah/*.ppm
-  
-STARE/test/stare-images/*.ppm
-  
-STARE/test/labels-ah/*.ppm
+3. Run train.py selecting the dataset.
 
-CHASE DB1/training/images/*.jpg
-  
-CHASE DB1/training/labels2/*.png
-  
-CHASE DB1/test/images/*.jpg
-  
-CHASE DB1/test/labels2/*.png
+4. Run test.py selecting the dataset.
