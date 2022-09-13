@@ -9,4 +9,8 @@
 
 4. Run test.py in UNet folder selecting the dataset.
 
-5. 
+5. Download EyeQ dataset and place in datasets folder according to the qualitites: 0, 1, and 2.
+
+6. Run train.py in main folder.
+
+7. Run test.py in main folder.
