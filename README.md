@@ -16,3 +16,12 @@
 7. Run train.py in main folder.
 
 8. Run test.py in main folder.
+
+### If you are using this code, please cite the following paper:
+
+@article{alimanov2022retinal,
+  title={Retinal Image Restoration and Vessel Segmentation using Modified Cycle-CBAM and CBAM-UNet},
+  author={Alimanov, Alnur and Islam, Md Baharul},
+  journal={arXiv preprint arXiv:2209.04234},
+  year={2022}
+}
