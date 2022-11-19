@@ -22,11 +22,13 @@
 If you use this code, please use the following BibTeX entry.
 
 ```
-  @article{alimanov2022retinal,
+@inproceedings{alimanov2022retinal,
   title={Retinal Image Restoration and Vessel Segmentation using Modified Cycle-CBAM and CBAM-UNet},
   author={Alimanov, Alnur and Islam, Md Baharul},
-  journal={arXiv preprint arXiv:2209.04234},
-  year={2022}
+  booktitle={2022 Innovations in Intelligent Systems and Applications Conference (ASYU)},
+  pages={1--6},
+  year={2022},
+  organization={IEEE}
 }
 
 ```
